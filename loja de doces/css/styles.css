@@ -1,0 +1,87 @@
+/* geral */
+html {
+ font-family:'Open Sans' sans-serif;
+}
+
+h1{
+background-color:#653616;
+border:1px solid #333;
+color: #ffff;
+border-radius:12px;
+font-family:Roboto,sans-serif;
+font-size:36px;
+height:48px;
+cursor:pointer;
+padding:0 24px;
+text-align: center;
+}
+
+h2{
+    color: rgba(148, 30, 163, 0.911);
+    text-align: center;
+}
+ 
+p{
+    background-color:#653616;
+    color: #ffff;
+    text-align: center;
+}
+#menu li { 
+    color: mintcream;
+    display:inline;
+    float:left;
+    width:10em; 
+    }
+
+#capa-img{
+  width: 100%;
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+body{
+    background-color:#ffa1ff !important;
+} 
+
+h3{
+color: rgba(148, 30, 163, 0.911);;
+left: 14px;
+    text-align: center;
+}
+
+h4{
+color: rgba(148, 30, 163, 0.911);
+left: 14px;
+text-align: center;
+}
+
+
+img{
+    width: 305px;
+    height: 305px;
+}
+
+h5{
+color: #ffff;
+left: 14px;
+text-align: center;
+}
+
+form{
+    color: rgba(148,30,163,0.911);
+    background-color: #ffa1ff;
+    box: #653616;
+}
+
+#mapa id{
+    margin-left: auto;
+    
+
+}
+#rede-sociais id{
+    background-position: center;
+}
